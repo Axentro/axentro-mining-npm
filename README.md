@@ -32,4 +32,4 @@ Options:
 
 ## Caveats
 
-Currently if you set the --process to a value above 3 or 4 after a while of running it may throw an exception and stop. It will have to be manally restarted in this case. We are working on updates and improvements. This is the first pass of the miner.
+Currently if you set the --process to a value above 3 or 4 after a while of running it may throw an exception and stop. It will have to be manually restarted in this case. We are working on updates and improvements. This is the first pass of the miner.
