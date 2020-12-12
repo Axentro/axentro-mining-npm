@@ -1,8 +1,9 @@
 {
   "name": "axentro-miner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Axentro mining npm module",
   "main": "index.js",
+  "bin": { "axentro-miner": "axentro-miner.js" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -4,7 +4,7 @@ const clear = require('clear');
 const figlet = require('figlet');
 const mining = require("./index");
 const { program } = require('commander');
-program.version('0.0.1');
+program.version('0.0.2');
 
 program
   .requiredOption('-a, --address <address>', 'Your wallet address')
