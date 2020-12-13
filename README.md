@@ -4,11 +4,17 @@ This is a Javascript Nodejs package that provides a cross platform miner.
 
 ## Install
 
+You must first install a tool called [https://nodejs.org/en/](https://nodejs.org/en/) which will give you the command line tool `npm`. You then use the `npm` tool to install the miner by using the following cli command:
+
 ```
 npm install axentro-miner -g
 ``` 
 
+This website has helpful information on how to install Nodejs on the Windows operating system: (Installing Nodejs on Windows)[https://www.guru99.com/download-install-node-js.html]
+
 ## Usage
+
+Once you have installed the `axentro-miner` tool using `npm` you find the `axentro-miner` tool has been installed in your cli and you can execute it using this cli command:
 
 ```
 axentro-miner -a your-address -n http://mainnet.axentro.io -p 2
