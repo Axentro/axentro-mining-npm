@@ -1,6 +1,6 @@
 {
   "name": "axentro-miner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Axentro mining npm module",
   "main": "index.js",
   "bin": { "axentro-miner": "axentro-miner.js" },
